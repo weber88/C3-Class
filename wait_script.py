@@ -34,7 +34,7 @@ time.sleep(wait)
 #        ftp.storbinary("STOR " + file, open(file, "rb"), 1024)
 
 #ftp = ftplib.FTP("10.255.40.101")
-#ftp.login("sandbox", "sandbox")
+#ftp.login("c3-class", "WWTwwt1!")
 
 #upload(ftp, "/tmp/cliqr_output.txt")
 
