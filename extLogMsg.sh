@@ -4,7 +4,9 @@
  
 print_log "This is the Log message - $logMsg"
  
-result="environment:
+result="hostName: testsite      #hostname parameter
+ipAddress: 10.1.1.5             #ipAddress parameter
+environment:
    hello: world
    instanceName: test_instance
    instanceType: dummy
